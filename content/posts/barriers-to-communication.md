@@ -1,11 +1,11 @@
 +++
-title = "Barriers to Communication"
+title = "Barriers to Communication & How to Overcome them"
 date = "2021-09-28"
 tags = ["communication", "barriers"]
 draft = false
 +++
 
-Whilst presenting or tyring to communicate a message, there are often many barriers and issues that must be considered before presenting to ensure that your communication is effective. This will also go over some ways these barriers can be broken.
+Whilst presenting or trying to communicate a message, there are often many barriers and issues that must be considered before presenting to ensure that your communication is effective. This will also go over some ways these barriers can be broken.
 
 ## Language Barrier
 Not everyone in the world speaks the same language and will be able to understand yours, meaning that people who speak a different language to you won't be able to understand your message. One way to get around this would to be to hire translators to translate what you are saying to the people who cannot understand. Alternately, translation software could be used to do this automatically.
@@ -28,11 +28,11 @@ There is always a chance that there could be a power outage or the computer you 
 ## Not Speaking Clearly
 If you are mumbling, slurring or stuttering your words it may make it harder for your audience to understand what you are saying. Whilst if there is a medical problem this cannot be helped, but ensure that you speak confidently and as clearly as you can whilst presenting.
 
-## Lack of Structure 
+## Lack of Structure
 If there is not a clear structure to your presentation, it will make it hard for your audience to understand and follow. Ensure that everything is checked before the presentation to ensure that your slides are in the correct order, and everything flows into each other.
 
 ## Lack of Organization / Lack of Time
-Make sure that all your presentations are delivered with enough time to get it all finished. Make sure you pick a date and time where you know you will be available so there is no rushing throughout the delivery. You must also ensure you plan everything you will present in advance and have anything needed for the presentation prepared before the presentation is meant to begin. 
+Make sure that all your presentations are delivered with enough time to get it all finished. Make sure you pick a date and time where you know you will be available so there is no rushing throughout the delivery. You must also ensure you plan everything you will present in advance and have anything needed for the presentation prepared before the presentation is meant to begin.
 
 ## Lack of Knowledge of the Topic
 If you are delivering a presentation about IT to a non-IT audience, make sure you only use terminology that the audience will be able to understand. For example, using specialist IT terms to the audience would be no use as they would not know what that word means. If you are making any words simpler, make sure it’s not done in a patronising way as it may disengage your audience and make them feel like they are not respected.
