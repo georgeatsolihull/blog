@@ -37,4 +37,5 @@ Make sure that you allow enough time to complete your presentation without rushi
 ## Lack of Knowledge of the Topic
 If you are delivering a presentation about IT to a non-IT audience, make sure you only use terminology that the audience will be able to understand. For example, using specialist IT terms to the audience would be no use as they would not know the technical IT jargon. If you are making any words simpler, make sure it’s not done in a patronising way as it may disengage your audience and make them feel like they are not respected.
 
+<br>
 Taking all of these barriers into account, I hope you can use the ideas to overcome them and to improve your delivery and refine your skills as a presenter.
