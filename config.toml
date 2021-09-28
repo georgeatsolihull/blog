@@ -1,0 +1,7 @@
+baseURL = '/blog/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'm10c'
+author = 'George'
+description = 'Unit 01 work'
