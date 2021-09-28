@@ -1,4 +1,4 @@
-baseurl      = "/blog/"
+baseurl      = "https://colligwork.github.io/blog/"
 title        = "George Hotten"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -39,7 +39,7 @@ paginate     = 10
 
     [languages.en.params.logo]
       logoText = "george hotten"
-      logoHomeLink = "/blog/"
+      logoHomeLink = "https://colligwork.github.io/blog/"
     # or
     #
     # path = "/img/your-example-logo.svg"
