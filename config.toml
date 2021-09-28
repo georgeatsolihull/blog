@@ -1,4 +1,4 @@
-baseurl      = /blog/
+baseurl      = "/blog/"
 title        = "George Hotten"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
