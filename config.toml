@@ -1,4 +1,4 @@
-baseurl      = "https://colligwork.github.io/blog/"
+baseurl      = "/blog/"
 title        = "George Hotten"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
